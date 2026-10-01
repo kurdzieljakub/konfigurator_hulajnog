@@ -2,6 +2,5 @@
 // Dodaj plik GLB do folderu models i dopisz go poniżej.
 window.KONFIGURATOR = window.KONFIGURATOR || {};
 window.KONFIGURATOR.modele = [
-  { nazwa: "Super Hulajnoga", plik: "hulajnoga_test.glb" },
-  { nazwa: "Nie otwierać", plik: "niszczyciel.glb" }
+  { nazwa: "Super Hulajnoga", plik: "hulajnoga_test.glb" }
 ];
