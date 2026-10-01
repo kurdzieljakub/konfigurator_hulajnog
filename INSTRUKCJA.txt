@@ -1,0 +1,8 @@
+Konfigurator miniaturowej hulajnogi
+
+modele.js  - modele dostępne na stronie (nazwa i ścieżka do GLB)
+kolory.js  - dostępne kolory (nazwa i kod HEX)
+models/    - tutaj umieść hulajnoga_test.glb i kolejne modele
+index.html - strona konfiguratora
+
+Nie potrzebujesz BAT ani Node.js. Otwórz index.html; uwaga: część przeglądarek blokuje automatyczne ładowanie lokalnych modeli GLB z plików file://. W takim wypadku stronę trzeba uruchomić z serwera lub umieścić w internecie. Nie dołączono modelu hulajnoga_test.glb, ponieważ nie został dostarczony.
